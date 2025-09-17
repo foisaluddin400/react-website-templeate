@@ -11,7 +11,7 @@ export const Navbar = () => {
   const [openDropdown, setOpenDropdown] = useState(null);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const location = useLocation();
-
+//g
   const navItems = [
     { label: "Home", path: "/", isHighlighted: true },
     {
